@@ -1,6 +1,6 @@
-# 🌟 Lezarev Website UI  
+# 🌟 Lazarev Website UI  
 
-Lezarev Website UI is a **modern, responsive, and animation-rich web interface** crafted using **HTML**, **CSS**, and **JavaScript**. It showcases stunning animations powered by **GSAP (GreenSock Animation Platform)** to deliver a visually delightful and interactive user experience.  
+Lazarev Website UI is a **modern, responsive, and animation-rich web interface** crafted using **HTML**, **CSS**, and **JavaScript**. It showcases stunning animations powered by **GSAP (GreenSock Animation Platform)** to deliver a visually delightful and interactive user experience.  
 
 ---
 
